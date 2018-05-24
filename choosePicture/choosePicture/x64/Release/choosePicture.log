@@ -1,0 +1,15 @@
+﻿项目文件包含 ToolsVersion="14.0"。此工具集可能未知或缺失。在这种情况下，通过安装 MSBuild 的正确版本，或许可以解决此问题。否则，该 build 可能已因策略原因而被强制为某个特定 ToolsVersion。将该项目视为其已具有 ToolsVersion="4.0"。有关详细信息，请参阅 http://go.microsoft.com/fwlink/?LinkId=291333。
+  Moc'ing choosepicture.h...
+  Uic'ing choosepicture.ui...
+  Rcc'ing choosepicture.qrc...
+RCC : warning : No resources in 'C:\Users\yang\Desktop\choosePicture\choosePicture\choosepicture.qrc'.
+  
+  choosepicture.cpp
+  moc_choosepicture.cpp
+  main.cpp
+  QSqliteUtil.cpp
+  sqlAfs.cpp
+  sqlOperation.cpp
+  正在生成代码...
+  qrc_choosepicture.cpp
+  choosePicture.vcxproj -> C:\Users\yang\Desktop\choosePicture\x64\Release\choosePicture.exe
